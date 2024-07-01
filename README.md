@@ -15,15 +15,12 @@ Image Dimensions: The final image should be exactly 600 x 600 pixels.
 Graphics Elements: Utilize lines, curves, and triangles to compose the image.
 Tools: Use the Java 2D API exclusively to draw the image.
 
-<----------------------Result---------------------->
+## Result
 
-Reference Image:
-![image](https://github.com/Buye4h/cg-assignment1/assets/73097117/aade6e21-79da-4366-a211-e23b78423d4a)
-
-Result Image:
-![Assignment1_63050147(sec1)_63050166(sec2)](https://github.com/Buye4h/cg-assignment1/assets/73097117/8acd490a-6e15-4d85-a176-60e71da29d08)
+![image](https://github.com/Buye4h/cg-assignment1/assets/73097117/6cff3572-1667-4d1d-bcd7-b99254453b83)
 
 
-Reference :
-Meme: https://knowyourmeme.com/photos/1495000-cats
-Tiger: https://www.democraticaccent.com/tiger-kills-fisherman-in-bengals-sundarbans/
+## Reference
+
+- Meme: [https://knowyourmeme.com/photos/1495000-cats](https://knowyourmeme.com/photos/1495000-cats)
+- Tiger: [https://www.democraticaccent.com/tiger-kills-fisherman-in-bengals-sundarbans/](https://www.democraticaccent.com/tiger-kills-fisherman-in-bengals-sundarbans/)
