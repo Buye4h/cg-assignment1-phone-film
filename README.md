@@ -21,6 +21,6 @@ Tools: Use the Java 2D API exclusively to draw the image.
 
 
 ## Reference
-
+(Used for educational purposes only)
 - Meme: [https://knowyourmeme.com/photos/1495000-cats](https://knowyourmeme.com/photos/1495000-cats)
 - Tiger: [https://www.democraticaccent.com/tiger-kills-fisherman-in-bengals-sundarbans/](https://www.democraticaccent.com/tiger-kills-fisherman-in-bengals-sundarbans/)
