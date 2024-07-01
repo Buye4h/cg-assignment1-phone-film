@@ -4,7 +4,6 @@
 The objective of this assignment is to familiarize students with the basics of computer graphics using the Java 2D API. Students will work in pairs to create a still image that incorporates lines, curves, and triangles.
 
 ## Description:
-In this assignment, students will:
 
 - Theme: Create a still image with a theme of "TIGERS".
 - Image Dimensions: The final image should be exactly 600 x 600 pixels.
