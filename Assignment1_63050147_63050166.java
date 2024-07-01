@@ -3,10 +3,10 @@ import java.util.*;
 import java.awt.image.BufferedImage;
 import javax.swing.*;
 
-//63050147 Tharita Watanapa sec1
-//63050166 Pilada Prasan sec2
+//Tharita Watanapa
+//Pilada Prasan
 
-class Assignment1_63050147_63050166 extends JPanel {
+class Assignment1 extends JPanel {
 
     public static void main(String[] args) {
 
