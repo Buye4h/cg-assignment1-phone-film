@@ -1,4 +1,4 @@
-# cg-assignment1
+# CG Assignment 1 : lines, curves, and triangles
 CG Assignment 1: Computer Graphics
 
 Course: 05506014 Computer Graphics
